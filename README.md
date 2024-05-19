@@ -1,6 +1,13 @@
-#Next.js project
+# Next.js project
+
 This is a Next.js project which is styled using TailwindCSS
 
+
+## Website link
+(project hosted globally)
+https://lens-xi.vercel.app/
+
+## For running the project locally -
 This project has two sections 1)_webpage which is front-end part of the app 2) database which is the back-end part of the project
 
 To Run this project locally on your machine follow these steps
