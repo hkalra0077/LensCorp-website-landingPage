@@ -1,4 +1,5 @@
-This is a Next.js project which is styles using TailwindCSS
+#Next.js project
+This is a Next.js project which is styled using TailwindCSS
 
 This project has two sections 1)_webpage which is front-end part of the app 2) database which is the back-end part of the project
 
